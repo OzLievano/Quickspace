@@ -10,8 +10,8 @@
 }
 .header_icon{
     object-fit: contain;
-    height:100px;
-    margin-left: 20px;
+    height:150px;
+    margin-left: 10px;
 }
 
 .header_center{
@@ -39,3 +39,4 @@
     width: 15vw;
     margin-right: 80px;
 }
+
